@@ -1,6 +1,6 @@
 Name:		texlive-aecc
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	TeXLive aecc package
 Group:		Publishing
 URL:		http://tug.org/texlive
