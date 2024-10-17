@@ -3,7 +3,7 @@ Version:	1.0
 Release:	3
 Summary:	TeXLive aecc package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aecc.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aecc.doc.tar.xz
